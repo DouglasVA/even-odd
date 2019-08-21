@@ -16,10 +16,10 @@ public class Program {
 		a = sc.nextInt();
 		
 		if (a % 2 == 0) {
-			System.out.println("PAR");
+			System.out.println("EVEN");
 		}		
 		else {
-			System.out.println("ÍMPAR");
+			System.out.println("ODD");
 		}
 		
 		sc.close();
